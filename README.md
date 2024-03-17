@@ -19,3 +19,25 @@
   * 技術細節:
     * 在判斷是否所有磚塊被消除的程式碼中,不去真的將陣列中的磚塊物件刪除 而是用一個變數count計算被撞擊的磚塊再利用visible屬性去讓磚塊消失 以此來優化時間複雜度
     * 利用canvas做出遊戲畫面
+   
+* Space Game
+  * Game Description: Players need to operate a spaceship that can only move left or right to dodge or shoot bullets to destroy meteors descending from above. During the game, players      can pick up lightning to enhance bullet shooting effects for five seconds or pick up shields to restore health.
+  * Developed using Python and its module Pygame, combining Pygame module functions and object-oriented concepts to create the space game.
+    
+* Snake Game
+
+  * Game Description: Players need to use the arrow keys to control a snake to eat randomly appearing fruits on the screen. Each time the snake eats a fruit, its tail grows longer and      the score increases. If the snake bites itself, the game ends.
+  * Created the game interface using HTML and CSS, then utilized JavaScript's object-oriented concepts to create objects such as fruits and snake body segments.
+  * Technical Details:
+    * Need to consider that fruits cannot appear on the snake's body. Use a do-while loop for checking.
+    * Implemented the game interface using canvas.
+    * Addressed a bug where if players pressed two direction keys within 0.1 seconds, it could cause unexpected behavior by temporarily disabling event listening.
+
+* Bouncing Ball Game:
+
+  * Game Description: Players need to control a paddle that moves horizontally with the mouse to bounce a ball continuously hitting objects within a limited space, aiming to hit all t      -he bricks in the space. The faster player who clears all bricks wins.
+  * Created the game interface using HTML and CSS, then utilized JavaScript's object-oriented concepts to create bricks objects.
+  * Technical Details:
+    * In the code for checking if all bricks have been eliminated, instead of deleting bricks objects from the array, a variable "count" is used to track the number of hit bricks. The
+      "visible" attribute is then used to make bricks disappear, optimizing time complexity.
+    * Utilized canvas for creating the game interface.
