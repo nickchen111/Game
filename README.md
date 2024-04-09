@@ -7,7 +7,7 @@
   * 用python與其模組pygame,結合pygame模組的函式以及物件導向概念做出
   * 遊戲畫面:
     * 初始畫面:
-      <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B%E7%95%AB%E9%9D%A2.png">
+      * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B%E7%95%AB%E9%9D%A2.png">
    
  
 * 貪吃蛇遊戲:
