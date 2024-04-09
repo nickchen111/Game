@@ -10,7 +10,8 @@
       * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B%E7%95%AB%E9%9D%A2.png">
     * 遊戲畫面:
       * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%81%8A%E7%8E%A9%E7%95%AB%E9%9D%A2.png">
- 
+    * 發射子彈:
+      * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E7%99%BC%E5%B0%84%E5%AD%90%E5%BD%88.png">
 * 貪吃蛇遊戲:
   * 遊戲說明: 玩家需要用上下左右鍵操作貪吃蛇去吃到畫面中隨機出現的果實,並且每次吃了果實尾巴就會變長分數就會增加 如果咬到自己遊戲就結束了
   * 結合HTML與CSS做出遊戲畫面,再利用Javascript物件導向概念做出果實、蛇身等物件
