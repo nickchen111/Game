@@ -4,7 +4,7 @@
 
 * 太空遊戲:
   * 遊戲說明:玩家需要操作只能左右移動的飛船躲避或者發射子彈將從上方降落的隕石擊碎,過程中玩家可以吃到閃電來增強子彈射擊效果五秒或者吃到盾牌回復血量
-  * 用python與其模組pygame,結合pygame模組的函式以及物件導向概念做出
+  * 用python與其模組pygame,結合pygame模組的函式以及Python物件導向概念做出的太空遊戲
   * 遊戲畫面:
     * 初始畫面:
       * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B%E7%95%AB%E9%9D%A2.png">
