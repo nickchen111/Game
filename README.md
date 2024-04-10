@@ -28,15 +28,20 @@
   * Developed using Python and its module Pygame, combining Pygame module functions and object-oriented concepts to create the space game.
   * Game Screens:
     * Initial Screen:
-        * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B%E7%95%AB%E9%9D%A2.png">
+      
+      <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B%E7%95%AB%E9%9D%A2.png">
     * Gameplay Screen:
-        * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%81%8A%E7%8E%A9%E7%95%AB%E9%9D%A2.png">
+      
+      <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%81%8A%E7%8E%A9%E7%95%AB%E9%9D%A2.png">
     * Firing Bullets:
-        * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E7%99%BC%E5%B0%84%E5%AD%90%E5%BD%88.png">
+      
+      <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E7%99%BC%E5%B0%84%E5%AD%90%E5%BD%88.png">
     * Bullet Hits Asteroid Explosion Animation:
-        * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E7%88%86%E7%82%B8%E5%8B%95%E7%95%AB.png">
+
+      <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E7%88%86%E7%82%B8%E5%8B%95%E7%95%AB.png">
     * Eating Shield Increases Life Bar, Maximum of Three Bars; Eating Lightning Enhances Bullet Firepower for Five Seconds:
-        * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E7%9B%BE%E7%89%8C%E8%B7%9F%E9%96%83%E9%9B%BB.png">
+
+      <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E7%9B%BE%E7%89%8C%E8%B7%9F%E9%96%83%E9%9B%BB.png">
 
 
 
